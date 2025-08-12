@@ -41,7 +41,7 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 - TTL to RS-485 Converter
 - Bluetooth BE33 Module
 - Rugged Board
-- 4 Chanell Relay
+- 4 Channel Relay
 
 **Software & Tools:**
 <p>
@@ -56,13 +56,13 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 
 ## 📷 Project Images
 | Hardware Kit | Innowatt Dashboard |
-|---------------|-----------|
-| ![Hardware Kit](harware Kit.jpg) | ![Innowatt_Dashboard](path-to-dashboard-image) |
+|--------------|--------------------|
+| ![Hardware Kit](harware%20Kit.jpg) | ![Innowatt_Dashboard](images/dashboard.png) |
 
 ---
 
 ## 📄 Research Paper
-📄 [View Paper](Conference_Paper_F.pdf)
+📄 [View Paper](Conference_Paper_IEMS_F.pdf)
 
 ---
 
@@ -73,9 +73,7 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 
 ## 👨‍💻 Contributors
 - **Pramodh R S**
-
 - Pavan Reddy S
-
 
 ---
 
