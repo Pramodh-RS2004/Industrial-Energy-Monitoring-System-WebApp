@@ -1,68 +1,72 @@
-# Industrial-Energy-Monitoring-System
-
-# Advanced Industrial Energy Monitoring System (IEMS)
-
-An **IoT and Embedded Systems-based** solution for **real-time industrial energy monitoring**, **anomaly detection**, and **predictive analysis**.  
-Developed as part of my final-year engineering project, this system integrates hardware, cloud, and machine learning to enhance industrial energy efficiency.
-
----
-
-## 📌 Project Overview
-The Advanced Industrial Energy Monitoring System (IEMS) provides industries with:
-- **Real-time telemetry** from energy meters
-- **Anomaly detection** to identify abnormal consumption patterns
-- **Predictive bill analysis** based on usage trends
-- **Historical data visualization** for better decision-making
+<!-- Banner / Title -->
+<h1 align="center">⚡ Advanced Industrial Energy Monitoring System (IEMS) ⚡</h1>
+<p align="center">
+  <b>IoT + Embedded Systems + Machine Learning</b>  
+</p>
 
 ---
 
-## ⚙️ System Architecture
-![System Architecture](path-to-your-architecture-image)
+## 📌 Overview
+The **Advanced Industrial Energy Monitoring System (IEMS)** is designed to help industries:
+- Monitor **real-time energy usage**
+- Detect **abnormal consumption patterns**
+- Predict **future electricity bills**
+- Visualize **historical trends**
 
-**Core Components:**
-- **STM32F446RE** microcontroller
-- **Energy Meter** with Modbus RTU communication
-- **TTL to RS-485 Converter** for Modbus interface
-- **Bluetooth BE33 Module** for rugged board communication
-- **Rugged Board** for cloud data transmission
-- **ThingsBoard Cloud** for data visualization and storage
-- **TensorFlow** for anomaly detection
+This project combines **STM32-based hardware**, **IoT communication protocols**, **ThingsBoard cloud**, and **TensorFlow-based ML**.
 
 ---
 
-## 🚀 Features
-- 📊 **Real-time data monitoring** via ThingsBoard Dashboard
-- 🤖 **Anomaly detection** using ML algorithms
-- 📈 **Predictive bill estimation**
-- 🗄 **Historical data analysis**
-- 🔗 **Modbus RTU + MQTT communication**
+## 🏗️ System Architecture
+<p align="center">
+  <img src="path-to-your-architecture-image" alt="System Architecture" width="700"/>
+</p>
 
 ---
 
-## 🛠️ Technologies Used
-- **Programming Languages:** C, Python
-- **Microcontroller:** STM32F446RE
-- **Protocols:** Modbus RTU, MQTT
-- **Cloud Platform:** ThingsBoard
-- **ML Framework:** TensorFlow
-- **Tools:** MPLAB, MATLAB, Hugging Face, Altair
+## ✨ Features
+✅ **Real-time Telemetry** from industrial energy meters  
+✅ **Anomaly Detection** using ML  
+✅ **Predictive Bill Analysis**  
+✅ **Historical Data Visualization**  
+✅ **Modbus RTU + MQTT Communication**  
+
+---
+
+## 🛠️ Tech Stack
+
+**Hardware:**
+- STM32F446RE Microcontroller
+- Energy Meter with Modbus RTU
+- TTL to RS-485 Converter
+- Bluetooth BE33 Module
+- Rugged Board
+
+**Software & Tools:**
+<p>
+  <img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ThingsBoard-5C2D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📷 Project Images
-*(Replace with actual image paths in your repo)*
-![Block Diagram](path-to-block-diagram-image)
-![ThingsBoard Dashboard](path-to-dashboard-image)
+| Block Diagram | Dashboard |
+|---------------|-----------|
+| ![Block Diagram](path-to-block-diagram-image) | ![Dashboard](path-to-dashboard-image) |
 
 ---
 
 ## 📄 Research Paper
-📄 [Conference Paper PDF](path-to-your-paper)
+📄 [View Paper](path-to-your-paper)
 
 ---
 
-## 🔗 Live Demo / Dashboard
-🌐 [ThingsBoard Dashboard Link](your-thingsboard-link)
+## 🌐 Live Demo / Dashboard
+🔗 [ThingsBoard Dashboard](your-thingsboard-link)
 
 ---
 
@@ -75,6 +79,7 @@ The Advanced Industrial Energy Monitoring System (IEMS) provides industries with
 ---
 
 ## 📬 Contact
-📧 Email: your-email@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-
+<p>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
