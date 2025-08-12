@@ -19,7 +19,7 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 
 ## 🏗️ System Architecture
 <p align="center">
-  <img src="path-to-your-architecture-image" alt="System Architecture" width="700"/>
+  <img src="iems_archt.png" alt="System Architecture" width="700"/>
 </p>
 
 ---
@@ -55,14 +55,14 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 ---
 
 ## 📷 Project Images
-| Hardware Kit | Dashboard |
+| Hardware Kit | Innowatt Dashboard |
 |---------------|-----------|
-| ![Block Diagram](path-to-block-diagram-image) | ![Dashboard](path-to-dashboard-image) |
+| ![Hardware Kit](harware Kit.jpg) | ![Innowatt_Dashboard](path-to-dashboard-image) |
 
 ---
 
 ## 📄 Research Paper
-📄 [View Paper](path-to-your-paper)
+📄 [View Paper](Conference_Paper_F.pdf)
 
 ---
 
