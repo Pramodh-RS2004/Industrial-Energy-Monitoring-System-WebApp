@@ -55,9 +55,10 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 ---
 
 ## 📷 Project Images
-| Hardware Kit | Innowatt Dashboard |
-|--------------|--------------------|
-| ![Hardware Kit](harware%20Kit.jpg) | ![Innowatt_Dashboard](images/dashboard.png) |
+| Hardware Kit | [Innowatt Dashboard](https://iems-user-interface-frontend.vercel.app) |
+|--------------|--------------------------------------------|
+| ![Hardware Kit](harware%20Kit.jpg) | ![Innowatt_Dashboard](dash_img.jpg) |
+
 
 ---
 
