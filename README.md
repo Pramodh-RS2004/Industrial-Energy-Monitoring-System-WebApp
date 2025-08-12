@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00C2CB&center=true&vCenter=true&width=900&height=60&lines=⚡+Industrial+Energy+Monitoring+System+(IEMS)+⚡;IoT+%2B+Embedded+Systems+%2B+Machine+Learning" alt="Title Animation" />
+<img src="https://readme-typing-svg.herokuapp.com font=Orbitron&size=35&color=00C2CB&center=true&vCenter=true&width=900&height=60&lines=⚡+Industrial+Energy+Monitoring+System+(IEMS)+⚡;IoT+%2B+Embedded+Systems+%2B+Machine+Learning" alt="Title Animation" />
 </h1>
 
 ---
