@@ -1,94 +1,118 @@
-<!-- Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00C2CB&center=true&vCenter=true&width=900&height=60&lines=⚡+Industrial+Energy+Monitoring+System+(IEMS)+⚡;IoT+%2B+Embedded+Systems+%2B+Machine+Learning" alt="Title Animation" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IoT-Enabled-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
-</p>
+<!-- Animated Banner with Gradient -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=⚡+Advanced+Industrial+Energy+Monitoring+System;IoT+%2B+Embedded+%2B+Machine+Learning+%2B+Cloud" alt="Animated Title" />
+</div>
 
 ---
 
-## 📌 Overview
-> The **Advanced Industrial Energy Monitoring System (IEMS)** is built to empower industries with:  
-> 📡 **Real-time Energy Monitoring** | 🛡 **Anomaly Detection** | 📈 **Predictive Analysis**
-
-This project integrates **STM32 hardware**, **IoT protocols**, **ThingsBoard Cloud**, and **TensorFlow ML models** for next-gen industrial monitoring.
+<!-- Animated Feature Cards -->
+<div align="center">
+  
+  | ![Real-time Monitoring](https://github.com/SP-XD/SP-XD/blob/main/images/devices/rtlsdr.gif?raw=true) | ![Anomaly Detection](https://github.com/SP-XD/SP-XD/blob/main/images/devices/ai.gif?raw=true) | ![Predictive Analytics](https://github.com/SP-XD/SP-XD/blob/main/images/devices/chip.gif?raw=true) |
+  |:---:|:---:|:---:|
+  | **Real-time Telemetry** | **Anomaly Detection** | **Bill Prediction** |
+  
+</div>
 
 ---
 
 ## 🏗️ System Architecture
-<p align="center">
-  <img src="iems_archt.png" alt="System Architecture" width="700"/>
-</p>
-
----
-
-## ✨ Features
-- ✅ **Real-time Telemetry** from industrial energy meters  
-- ✅ **ML-powered Anomaly Detection**  
-- ✅ **Future Bill Prediction**  
-- ✅ **Historical Data Trends**  
-- ✅ **Modbus RTU + MQTT Communication**  
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/embedded_arch.gif?raw=true" alt="Animated System Architecture" width="800"/>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**🔧 Hardware:**
-- STM32F446RE Microcontroller
-- Energy Meter with Modbus RTU
-- TTL to RS-485 Converter
-- Bluetooth BE33 Module
-- Rugged Board
-- 4 Channel Relay
+<div align="center">
+  
+  <!-- Animated Tech Badges -->
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=C&animation=spin&fill=black&textfill=00599C" height="50"/>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=Python&animation=pulse&fill=black&textfill=3776AB" height="50"/>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=tensorflow&text=TF&animation=float&fill=black&textfill=FF6F00" height="50"/>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=thingsboard&text=ThingsBoard&animation=shake&fill=5C2D91&textfill=white" height="50"/>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=mqtt&text=MQTT&animation=bounce&fill=660066&textfill=white" height="50"/>
 
-**💻 Software & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ThingsBoard-5C2D91?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-## 📷 Project Images
-| Hardware Kit | [🚀 Innowatt Dashboard](https://iems-user-interface-frontend.vercel.app) |
-|--------------|--------------------------------------------|
-| ![Hardware Kit](harware%20Kit.jpg) | ![Innowatt_Dashboard](dash_img.jpg) |
+## 🌟 Key Features
+
+<!-- Animated Feature List -->
+<details open>
+<summary><b>⚡ Click to Explore Features</b></summary>
+  
+| Feature | Animation |
+|---------|-----------|
+| **Real-time Energy Monitoring** | <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/wave.gif?raw=true" width="100"> |
+| **ML-powered Anomaly Detection** | <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/radar.gif?raw=true" width="100"> |
+| **Predictive Analytics** | <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/graph.gif?raw=true" width="100"> |
+| **Modbus RTU Integration** | <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/serial.gif?raw=true" width="100"> |
+  
+</details>
+
+---
+
+## 📸 Project Gallery
+
+<div align="center">
+  
+  | Hardware Implementation | Dashboard Preview |
+  |-------------------------|-------------------|
+  | ![Hardware](https://github.com/SP-XD/SP-XD/blob/main/images/devices/circuit.gif?raw=true) | ![Dashboard](https://github.com/SP-XD/SP-XD/blob/main/images/devices/dashboard.gif?raw=true) |
+  
+</div>
 
 ---
 
 ## 📄 Research Paper
-📄 [**View Conference Paper**](Conference_Paper_IEMS_F.pdf)
+
+<div align="center">
+  <a href="Conference_Paper_IEMS_F.pdf">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=pdf&text=Download+Research+Paper&animation=shake&fill=red&textfill=white" height="50"/>
+  </a>
+</div>
 
 ---
 
-## 🌐 Live Demo / Dashboard
-🔗 [**ThingsBoard Dashboard**](https://demo.thingsboard.io/dashboards/53df4010-95af-11ef-b5a8-ed1aed9a651f)
+## 🚀 Live Demo
+
+<div align="center">
+  <a href="https://iems-user-interface-frontend.vercel.app">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Explore+Dashboard&animation=glow&fill=00F0FF&textfill=black" height="50"/>
+  </a>
+</div>
 
 ---
 
-## 👨‍💻 Contributors
-<table>
-<tr>
-<td align="center"><b>Pramodh R S</b></td>
-<td align="center"><b>Pavan Reddy S</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100"/></td>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100"/></td>
-</tr>
-</table>
+## 🤝 Contributors
+
+<div align="center">
+  
+  <!-- Animated contributor cards -->
+  <a href="https://github.com/yourprofile">
+    <img src="https://readme-components.vercel.app/api?component=avatar&text=Pramodh+RS&animation=float&fill=random" width="100"/>
+  </a>
+  <a href="https://github.com/yourprofile">
+    <img src="https://readme-components.vercel.app/api?component=avatar&text=Pavan+Reddy&animation=float&fill=random" width="100"/>
+  </a>
+  
+</div>
 
 ---
 
 ## 📬 Contact
-<p>
-  <a href="rspramodh5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pramodh-rs-3190692b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+
+<div align="center">
+  
+  [![Email](https://readme-components.vercel.app/api?component=button&text=Email+Us&animation=pulse&fill=EA4335&logo=gmail)](mailto:youremail@example.com)
+  [![LinkedIn](https://readme-components.vercel.app/api?component=button&text=Connect&animation=shake&fill=0A66C2&logo=linkedin)](https://linkedin.com/in/yourprofile)
+  
+</div>
+
+<!-- Animated divider -->
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/divider.gif?raw=true" width="800"/>
+</div>
