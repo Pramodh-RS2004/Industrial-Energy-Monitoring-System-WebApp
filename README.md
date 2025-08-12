@@ -1,19 +1,21 @@
-<!-- Banner / Title -->
-<h1 align="center">⚡ Advanced Industrial Energy Monitoring System (IEMS) ⚡</h1>
+<!-- Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00C2CB&center=true&vCenter=true&width=900&height=60&lines=⚡+Advanced+Industrial+Energy+Monitoring+System+(IEMS)+⚡;IoT+%2B+Embedded+Systems+%2B+Machine+Learning" alt="Title Animation" />
+</h1>
+
 <p align="center">
-  <b>IoT + Embedded Systems + Machine Learning</b>  
+  <img src="https://img.shields.io/badge/IoT-Enabled-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📌 Overview
-The **Advanced Industrial Energy Monitoring System (IEMS)** is designed to help industries:
-- Monitor **real-time energy usage**
-- Detect **abnormal consumption patterns**
-- Predict **future electricity bills**
-- Visualize **historical trends**
+> The **Advanced Industrial Energy Monitoring System (IEMS)** is built to empower industries with:  
+> 📡 **Real-time Energy Monitoring** | 🛡 **Anomaly Detection** | 📈 **Predictive Analysis**
 
-This project combines **STM32-based hardware**, **IoT communication protocols**, **ThingsBoard cloud**, and **TensorFlow-based ML**.
+This project integrates **STM32 hardware**, **IoT protocols**, **ThingsBoard Cloud**, and **TensorFlow ML models** for next-gen industrial monitoring.
 
 ---
 
@@ -25,17 +27,17 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 ---
 
 ## ✨ Features
-✅ **Real-time Telemetry** from industrial energy meters  
-✅ **Anomaly Detection** using ML  
-✅ **Predictive Bill Analysis**  
-✅ **Historical Data Visualization**  
-✅ **Modbus RTU + MQTT Communication**  
+- ✅ **Real-time Telemetry** from industrial energy meters  
+- ✅ **ML-powered Anomaly Detection**  
+- ✅ **Future Bill Prediction**  
+- ✅ **Historical Data Trends**  
+- ✅ **Modbus RTU + MQTT Communication**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Hardware:**
+**🔧 Hardware:**
 - STM32F446RE Microcontroller
 - Energy Meter with Modbus RTU
 - TTL to RS-485 Converter
@@ -43,7 +45,7 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 - Rugged Board
 - 4 Channel Relay
 
-**Software & Tools:**
+**💻 Software & Tools:**
 <p>
   <img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -55,26 +57,33 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 ---
 
 ## 📷 Project Images
-| Hardware Kit | [Innowatt Dashboard](https://iems-user-interface-frontend.vercel.app) |
+| Hardware Kit | [🚀 Innowatt Dashboard](https://iems-user-interface-frontend.vercel.app) |
 |--------------|--------------------------------------------|
 | ![Hardware Kit](harware%20Kit.jpg) | ![Innowatt_Dashboard](dash_img.jpg) |
-
 
 ---
 
 ## 📄 Research Paper
-📄 [View Paper](Conference_Paper_IEMS_F.pdf)
+📄 [**View Conference Paper**](Conference_Paper_IEMS_F.pdf)
 
 ---
 
 ## 🌐 Live Demo / Dashboard
-🔗 [ThingsBoard Dashboard](your-thingsboard-link)
+🔗 [**ThingsBoard Dashboard**](your-thingsboard-link)
 
 ---
 
 ## 👨‍💻 Contributors
-- **Pramodh R S**
-- Pavan Reddy S
+<table>
+<tr>
+<td align="center"><b>Pramodh R S</b></td>
+<td align="center"><b>Pavan Reddy S</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100"/></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100"/></td>
+</tr>
+</table>
 
 ---
 
