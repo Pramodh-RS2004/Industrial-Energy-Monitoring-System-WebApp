@@ -41,6 +41,7 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 - TTL to RS-485 Converter
 - Bluetooth BE33 Module
 - Rugged Board
+- 4 Chanell Relay
 
 **Software & Tools:**
 <p>
@@ -54,7 +55,7 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 ---
 
 ## 📷 Project Images
-| Block Diagram | Dashboard |
+| Hardware Kit | Dashboard |
 |---------------|-----------|
 | ![Block Diagram](path-to-block-diagram-image) | ![Dashboard](path-to-dashboard-image) |
 
@@ -72,9 +73,9 @@ This project combines **STM32-based hardware**, **IoT communication protocols**,
 
 ## 👨‍💻 Contributors
 - **Pramodh R S**
-- Kirthann R
+
 - Pavan Reddy S
-- Rakshak K R
+
 
 ---
 
