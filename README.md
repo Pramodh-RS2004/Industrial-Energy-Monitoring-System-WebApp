@@ -1,118 +1,74 @@
-<!-- Animated Banner with Gradient -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=⚡+Advanced+Industrial+Energy+Monitoring+System;IoT+%2B+Embedded+%2B+Machine+Learning+%2B+Cloud" alt="Animated Title" />
-</div>
+<h1 align="center">⚡ Advanced Industrial Energy Monitoring System (IEMS) ⚡</h1>
 
----
+<p align="center">
+  <img src="images/banner.gif" alt="IEMS Banner" width="80%">
+</p>
 
-<!-- Animated Feature Cards -->
-<div align="center">
-  
-  | ![Real-time Monitoring](https://github.com/SP-XD/SP-XD/blob/main/images/devices/rtlsdr.gif?raw=true) | ![Anomaly Detection](https://github.com/SP-XD/SP-XD/blob/main/images/devices/ai.gif?raw=true) | ![Predictive Analytics](https://github.com/SP-XD/SP-XD/blob/main/images/devices/chip.gif?raw=true) |
-  |:---:|:---:|:---:|
-  | **Real-time Telemetry** | **Anomaly Detection** | **Bill Prediction** |
-  
-</div>
-
----
-
-## 🏗️ System Architecture
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/embedded_arch.gif?raw=true" alt="Animated System Architecture" width="800"/>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-  <!-- Animated Tech Badges -->
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=C&animation=spin&fill=black&textfill=00599C" height="50"/>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=Python&animation=pulse&fill=black&textfill=3776AB" height="50"/>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=tensorflow&text=TF&animation=float&fill=black&textfill=FF6F00" height="50"/>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=thingsboard&text=ThingsBoard&animation=shake&fill=5C2D91&textfill=white" height="50"/>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=mqtt&text=MQTT&animation=bounce&fill=660066&textfill=white" height="50"/>
-
-</div>
-
----
-
-## 🌟 Key Features
-
-<!-- Animated Feature List -->
-<details open>
-<summary><b>⚡ Click to Explore Features</b></summary>
-  
-| Feature | Animation |
-|---------|-----------|
-| **Real-time Energy Monitoring** | <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/wave.gif?raw=true" width="100"> |
-| **ML-powered Anomaly Detection** | <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/radar.gif?raw=true" width="100"> |
-| **Predictive Analytics** | <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/graph.gif?raw=true" width="100"> |
-| **Modbus RTU Integration** | <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/serial.gif?raw=true" width="100"> |
-  
-</details>
-
----
-
-## 📸 Project Gallery
-
-<div align="center">
-  
-  | Hardware Implementation | Dashboard Preview |
-  |-------------------------|-------------------|
-  | ![Hardware](https://github.com/SP-XD/SP-XD/blob/main/images/devices/circuit.gif?raw=true) | ![Dashboard](https://github.com/SP-XD/SP-XD/blob/main/images/devices/dashboard.gif?raw=true) |
-  
-</div>
-
----
-
-## 📄 Research Paper
-
-<div align="center">
-  <a href="Conference_Paper_IEMS_F.pdf">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=pdf&text=Download+Research+Paper&animation=shake&fill=red&textfill=white" height="50"/>
+<p align="center">
+  <a href="https://your-dashboard-link.com" target="_blank">
+    🔗 <b>Innowatt Dashboard</b>
   </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/yourusername/yourrepo?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IoT-Enabled-blue?style=for-the-badge&logo=internetofthings">
+</p>
 
 ---
 
-## 🚀 Live Demo
-
-<div align="center">
-  <a href="https://iems-user-interface-frontend.vercel.app">
-    <img src="https://readme-components.vercel.app/api?component=button&text=Explore+Dashboard&animation=glow&fill=00F0FF&textfill=black" height="50"/>
-  </a>
-</div>
-
----
-
-## 🤝 Contributors
-
-<div align="center">
-  
-  <!-- Animated contributor cards -->
-  <a href="https://github.com/yourprofile">
-    <img src="https://readme-components.vercel.app/api?component=avatar&text=Pramodh+RS&animation=float&fill=random" width="100"/>
-  </a>
-  <a href="https://github.com/yourprofile">
-    <img src="https://readme-components.vercel.app/api?component=avatar&text=Pavan+Reddy&animation=float&fill=random" width="100"/>
-  </a>
-  
-</div>
+## 🚀 Overview
+The **Advanced Industrial Energy Monitoring System** is designed to:
+- Monitor industrial energy usage in real-time.
+- Detect anomalies using **TensorFlow-based models**.
+- Send data to the cloud via **MQTT** and visualize it on **ThingsBoard**.
+- Provide predictive bill analysis to optimize costs.
 
 ---
 
-## 📬 Contact
+## 🛠️ Technologies Used
+| Component | Technology |
+|-----------|------------|
+| Microcontroller | STM32F446RE |
+| Protocols | Modbus RTU, Bluetooth BE33, MQTT |
+| Cloud Platform | ThingsBoard |
+| ML Framework | TensorFlow |
+| Languages | Python, C |
+| Visualization | Custom Innowatt Dashboard |
 
-<div align="center">
-  
-  [![Email](https://readme-components.vercel.app/api?component=button&text=Email+Us&animation=pulse&fill=EA4335&logo=gmail)](mailto:youremail@example.com)
-  [![LinkedIn](https://readme-components.vercel.app/api?component=button&text=Connect&animation=shake&fill=0A66C2&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  
-</div>
+---
 
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/devices/divider.gif?raw=true" width="800"/>
-</div>
+## 🖼️ System Architecture
+<p align="center">
+  <img src="iems_arhct.png" alt="System Architecture" width="70%">
+</p>
+
+---
+
+## 📸 Hardware Setup
+<p align="center">
+  <img src="harware Kit.jpg" alt="Hardware Kit" width="70%">
+</p>
+
+---
+
+## 📊 Features
+✅ Real-time energy monitoring  
+✅ Anomaly detection using ML models  
+✅ Predictive billing & cost analysis  
+✅ Cloud data storage and visualization  
+✅ Easy-to-use dashboard interface  
+
+---
+
+## 📄 Conference Paper
+📄 [Download Conference Paper (PDF)](Conference_Paper_IEMS_F.pdf)
+
+---
+
+## 💡 How to Use
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/yourrepo.git
+   cd yourrepo
