@@ -1,6 +1,31 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00C2CB&center=true&vCenter=true&width=900&height=60&lines=  +Industrial+Energy+Monitoring+System+(IEMS)+⚡;IoT+%2B+Embedded+Systems+%2B+Machine+Learning" alt="Title Animation" />
+  <div style="
+    font-family: 'Inter', sans-serif;
+    font-size: 2.5rem;
+    background: linear-gradient(90deg, #00C2CB, #0078D4);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-align: center;
+    padding: 1rem;
+    margin: 0 auto;
+    max-width: 900px;
+    line-height: 1.2;
+    position: relative;
+  ">
+    <span style="display: block; font-weight: 700;">Advanced Industrial Energy Monitoring System (IEMS)</span>
+    <span style="
+      display: block; 
+      font-size: 1.5rem; 
+      font-weight: 500;
+      margin-top: 0.5rem;
+      background: linear-gradient(90deg, #FF8A00, #FF0058);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    ">IoT + Embedded Systems + Machine Learning</span>
+  </div>
 </h1>
 
 <p align="center">
