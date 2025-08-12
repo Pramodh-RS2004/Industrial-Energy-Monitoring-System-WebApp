@@ -69,7 +69,7 @@ This project integrates **STM32 hardware**, **IoT protocols**, **ThingsBoard Clo
 ---
 
 ## 🌐 Live Demo / Dashboard
-🔗 [**ThingsBoard Dashboard**](your-thingsboard-link)
+🔗 [**ThingsBoard Dashboard**](https://demo.thingsboard.io/dashboards/53df4010-95af-11ef-b5a8-ed1aed9a651f)
 
 ---
 
